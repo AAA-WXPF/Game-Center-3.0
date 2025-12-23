@@ -1,0 +1,5 @@
+{
+  "name": " 小游戏平台",
+  "description": "一个包含猜数字、猜拳、国际象棋、中国象棋和台球大师的多人游戏平台。",
+  "requestFramePermissions": []
+}
